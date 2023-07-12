@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+nav ul{
+    display: flex;
+    height: 60px;
+    align-items: center;
+}
+
+nav ul li{
+    list-style: none;
+    padding: 0 20px;
+}  
+
+.eli{
+    display: flex;
+    align-items: center;
+    
+}
+
+.anch{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+
+.f-size16{
+    font-size: 16px;
+}

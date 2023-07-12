@@ -1,0 +1,18 @@
+.f-size{
+    font-size: 25px;
+}
+
+.m-y{
+    margin-top: 10px;
+}
+
+.m-x{
+    margin-right: 3px;
+}
+
+button{
+    padding: 15px;
+    background-color: rgb(27, 76, 161);
+    font-size: 16px;
+    font-weight: 500;
+}
