@@ -1,6 +1,6 @@
 {
-  "homepage": "https://EliShan112.github.io/my-app",
-  "name": "my-app",
+  "homepage": "https://EliShan112.github.io/Text-Manipulator",
+  "name": "Text-Manipulator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
